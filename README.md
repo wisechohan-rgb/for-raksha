@@ -23,4 +23,4 @@ A special website created for Srishti.
 
 ---
 
-Made with ❤️ by [@dchohan.me](https://instagram.com/dchohan.me)
+Made with ❤️ by YOUR LOVER
