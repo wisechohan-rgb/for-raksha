@@ -1,11 +1,11 @@
 
-# For Srishti 💕
+# For Raksha 💕
 
-A special website created for Srishti.
+A special website created for Raksha.
 
 ## Live Demo
 
-🔗 **[Visit Site](https://for-srishti.vercel.app/)**
+🔗 **[Visit Site](https://for-raksha.vercel.app/)**
 
 ## Features
 
