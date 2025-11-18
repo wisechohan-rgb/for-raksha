@@ -1,7 +1,7 @@
 
-# For Tanu 💕
+# For Tanvi 💕
 
-A special website created for Tanu.
+A special website created for Tanvi.
 
 ## Live Demo
 
